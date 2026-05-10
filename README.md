@@ -10,7 +10,7 @@ ldkc FILE_NAME.ldk -o FILE_NAME.exe
 ## Parameters
 
 - `FILE_NAME.ldk` — source LDK file
-- `-o FILE_NAME.out` — output file name after compilation
+- `-o FILE_NAME.exe` — output file name after compilation
 
 ## Example
 ldkc main.ldk -o main.exe
